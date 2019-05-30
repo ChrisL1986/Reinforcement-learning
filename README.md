@@ -4,8 +4,11 @@ This repository provides implementations for some examples presented in the book
 
 # Table of Contents
 [Gambler's-Problem](#gamblers)
+
 [Black Jack](#blackjack)
+
 [Random Walk](#randomwalk)
+
 [Short Corridor](#shortcorridor)
 
 
