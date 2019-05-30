@@ -2,14 +2,11 @@
 This repository provides implementations for some examples presented in the book "Reinforcement Learning: An Introduction" by Richard S. Sutton and Andrew G. Barto.
 
 
-# Table of Contents
-[Gambler's-Problem](#gamblers)
-
-[Black Jack](#blackjack)
-
-[Random Walk](#randomwalk)
-
-[Short Corridor](#shortcorridor)
+#### Table of Contents
+*[Gambler's-Problem](#gamblers)
+*[Black Jack](#blackjack)
+*[Random Walk](#randomwalk)
+*[Short Corridor](#shortcorridor)
 
 
 <a name="gamblers"/>
