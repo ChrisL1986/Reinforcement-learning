@@ -32,7 +32,7 @@ Optimal value and policy for BlackJack using the Monte Carlo method with explori
 ![alt text](https://github.com/ChrisL1986/Reinforcement-learning/blob/images/policy.png)
 
 
-<a name="shortcorridor"/>
+<a name="randomwalk"/>
 # Random Walk
 Implementation of different strategies for the example 6.2  in "Reinforcement Learning: An Introduction" by Richard S. Sutton and Andrew G. Barto. 
 
